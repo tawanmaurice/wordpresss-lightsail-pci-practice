@@ -216,3 +216,20 @@ A polished client report
 A professional PDF
 
 A portfolio case study
+
+pci-wordpress-lightsail-demo/
+├── README.md
+├── docs/
+│   ├── methodology.md
+│   ├── pci-mapping.md
+│   └── hardening-steps.md
+├── reports/
+│   ├── zap-summary.md
+│   ├── ssl-labs-summary.md
+│   ├── security-headers-summary.md
+│   └── wpscan-summary.md
+└── screenshots/
+    ├── zap-alerts.png
+    ├── ssl-labs-grade.png
+    └── securityheaders-grade.png
+
