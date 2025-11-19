@@ -1,7 +1,6 @@
 PCI DSS Web Application Security Project 
 
-A complete multi-tool security assessment workflow performed on:
-https://wp.98-89-111-197.sslip.io
+A complete multi-tool security assessment.
 
 📌 Overview
 
